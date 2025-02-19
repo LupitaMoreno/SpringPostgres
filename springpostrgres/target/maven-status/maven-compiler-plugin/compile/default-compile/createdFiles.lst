@@ -1,0 +1,4 @@
+com\example\springpostrgres\controller\UsuarioController.class
+com\example\springpostrgres\model\Usuario.class
+com\example\springpostrgres\SpringpostrgresApplication.class
+com\example\springpostrgres\repository\UsuarioRepository.class
